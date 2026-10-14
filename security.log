@@ -1,0 +1,11 @@
+2026-10-14 09:00:12 INFO user=rahul action=login_success ip=192.168.1.10
+2026-10-14 09:02:15 WARNING user=admin action=login_failed ip=203.0.113.25
+2026-10-14 09:02:40 WARNING user=admin action=login_failed ip=203.0.113.25
+2026-10-14 09:03:01 WARNING user=admin action=login_failed ip=203.0.113.25
+2026-10-14 09:03:20 INFO user=admin action=login_success ip=203.0.113.25
+2026-10-14 09:05:00 INFO user=neha action=login_success ip=192.168.1.15
+2026-10-14 09:10:12 INFO user=backup action=login_success ip=192.168.1.20
+2026-10-14 09:12:12 WARNING user=root action=login_failed ip=198.51.100.40
+2026-10-14 09:12:20 WARNING user=root action=login_failed ip=198.51.100.40
+2026-10-14 09:12:28 WARNING user=root action=login_failed ip=198.51.100.40
+2026-10-14 09:12:35 WARNING user=root action=login_failed ip=198.51.100.40
